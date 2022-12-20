@@ -1,0 +1,28 @@
+nav {
+    height: 90vh;
+}
+
+a {
+    font-family: arial;
+    text-decoration: none;
+    color: gray;
+    padding: 5px 0px;
+    width: 100%;
+    border-radius: 15%;
+}
+
+ul {
+    padding: 0;
+}
+
+a:hover {
+    background-color: #768cbf;
+    color: white;
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+    padding: 5px 0px;
+    padding-left: 0.5rem;
+}
